@@ -1,0 +1,220 @@
+# Rime user dictionary
+#@/db_name	rime_ice
+#@/db_type	userdb
+#@/rime_version	1.17.0
+#@/tick	382
+#@/user_id	54fe3e4c-86cd-49c1-aedb-3fb1bd805f37
+a 	啊	c=1 d=1 t=382
+an shi da 	安师大	c=1 d=1 t=382
+an zhuang 	安装	c=6 d=4.94707 t=382
+ba 	把	c=4 d=3.42467 t=382
+bai se 	白色	c=1 d=1 t=382
+ban ben 	版本	c=6 d=5.25106 t=382
+bei jing 	背景	c=1 d=0.995012 t=382
+bi zhi 	壁纸	c=5 d=4.3575 t=382
+bian cheng 	变成	c=2 d=1.90823 t=382
+bian huan 	变换	c=1 d=0.995012 t=382
+bing 	并	c=2 d=1.88052 t=382
+bing rang 	并让	c=1 d=0.937067 t=382
+bu 	不	c=1 d=0.88692 t=382
+bu hui 	不会	c=1 d=0.995012 t=382
+bu liao 	不了	c=1 d=0.995012 t=382
+bu shi 	不是	c=2 d=1.91693 t=382
+bu xing 	不行	c=2 d=1.81241 t=382
+bu yao 	不要	c=1 d=0.97531 t=382
+cai hua 	采花	c=0 d=0.083527 t=382
+can shu 	参数	c=1 d=0.941765 t=382
+ce shi 	测试	c=0 d=0.0995012 t=382
+cheng 	成	c=1 d=0.970446 t=382
+cheng gong 	成功	c=2 d=1.99005 t=382
+cheng xu 	程序	c=1 d=0.985112 t=382
+chong xin 	重新	c=2 d=1.87114 t=382
+chun bai se 	纯白色	c=2 d=1.9178 t=382
+ci 	辞	c=1 d=1 t=382
+da 	大	c=1 d=0.99005 t=382
+da kai 	打开	c=6 d=5.24802 t=382
+da shi 	大师	c=0 d=0.0970446 t=382
+dan 	但	c=1 d=0.951229 t=382
+dan shi 	但是	c=3 d=2.71452 t=382
+de 	的	c=33 d=20.7259 t=382
+dei 	得	c=1 d=0.946485 t=382
+di tu 	地图	c=1 d=1.0612 t=382
+diao luo 	掉落	c=4 d=3.90652 t=382
+diao yong 	调用	c=1 d=0.913931 t=382
+dong fang 	东方	c=1 d=1 t=382
+dou 	都	c=1 d=0.995012 t=382
+dou di 	兜底	c=1 d=0.980199 t=382
+duo shao 	多少	c=1 d=1 t=382
+duo shao a 	多少啊	c=2 d=1.98506 t=382
+er 	而	c=1 d=0.985112 t=382
+er ci yuan 	二次元	c=2 d=1.91813 t=382
+fan yi 	翻译	c=1 d=1 t=382
+fang an 	方案	c=1 d=0.955997 t=382
+fen bie 	分别	c=1 d=0.995012 t=382
+fen xiang 	分享	c=1 d=0.985112 t=382
+feng 	风	c=0 d=0.099005 t=382
+fu li 	福利	c=0 d=0.0995012 t=382
+gai cheng 	改成	c=1 d=1 t=382
+gan ma 	干嘛	c=1 d=0.995012 t=382
+ge 	个	c=1 d=0.97531 t=382
+gen sui 	跟随	c=1 d=0.985112 t=382
+gu feng 	古风	c=1 d=1 t=382
+guan bi 	关闭	c=1 d=0.856415 t=382
+guang biao 	光标	c=1 d=0.970446 t=382
+gui 	鬼	c=1 d=0.927743 t=382
+guo lai 	过来	c=1 d=0.951229 t=382
+hai shi 	还是	c=2 d=1.95064 t=382
+hao xiang 	好像	c=1 d=0.941765 t=382
+he 	和	c=2 d=1.74765 t=382
+hou 	后	c=1 d=0.937067 t=382
+hu gan 	护肝	c=1 d=0.985112 t=382
+huan 	换	c=1 d=0.927743 t=382
+huan cheng 	换成	c=3 d=2.71308 t=382
+huan jing bian liang 	环境变量	c=1 d=0.891366 t=382
+hui 	会	c=2 d=1.95581 t=382
+hui fu 	恢复	c=1 d=0.985112 t=382
+huo 	火	c=1 d=1 t=382
+ji pin 	极品	c=0 d=0.083527 t=382
+ji pin cai hua lang 	极品采花郎	c=1 d=0.839457 t=382
+ji xu 	继续	c=1 d=0.955997 t=382
+jia su 	加速	c=1 d=0.865022 t=382
+jiao ben 	脚本	c=3 d=2.81432 t=382
+jie jue 	解决	c=1 d=0.960789 t=382
+jie yuan 	结缘	c=2 d=1.99501 t=382
+jin jin 	仅仅	c=1 d=0.891366 t=382
+jing gao 	警告	c=1 d=1 t=382
+kan kan 	看看	c=1 d=0.847894 t=382
+kan yi xia 	看一下	c=1 d=0.970446 t=382
+ke yi 	可以	c=1 d=0.941765 t=382
+kuai jie jian 	快捷键	c=6 d=5.32159 t=382
+lang 	郎	c=0 d=0.083527 t=382
+le 	了	c=5 d=4.13513 t=382
+li 	里	c=1 d=0.955997 t=382
+li de 	里的	c=1 d=0.970446 t=382
+lian 	连	c=0 d=0.0995012 t=382
+lian jie 	连接	c=1 d=0.965605 t=382
+liang 	凉	c=1 d=0.946485 t=382
+liu lan qi 	浏览器	c=1 d=0.955997 t=382
+ma 	吗	c=3 d=2.90727 t=382
+mei bian 	没变	c=2 d=1.97531 t=382
+mei ci 	每次	c=1 d=0.985112 t=382
+mei guo 	美国	c=1 d=0.927743 t=382
+mei you 	没有	c=3 d=2.94565 t=382
+ming ling 	命令	c=3 d=2.85598 t=382
+mo shi 	模式	c=3 d=2.84105 t=382
+na 	那	c=1 d=1 t=382
+nei cun 	内存	c=1 d=0.995012 t=382
+neng 	能	c=1 d=0.97531 t=382
+ni 	你	c=1 d=0.976199 t=382
+ni bang wo 	你帮我	c=1 d=0.995012 t=382
+ni dui 	你对	c=2 d=1.94099 t=382
+ni pei zhi 	你配置	c=1 d=0.941765 t=382
+ni zi ji 	你自己	c=1 d=0.843665 t=382
+pei zhi 	配置	c=1 d=1.00764 t=382
+pi fu 	皮肤	c=1 d=0.941765 t=382
+pian se 	偏色	c=3 d=2.84942 t=382
+ping 	平	c=0 d=0.0955997 t=382
+qi 	七	c=1 d=1 t=382
+qi dong 	启动	c=3 d=2.57158 t=382
+qi dong qi 	启动器	c=1 d=0.995012 t=382
+qian se 	浅色	c=1 d=0.985112 t=382
+qian yi 	迁移	c=1 d=0.946485 t=382
+qie huan 	切换	c=2 d=1.89413 t=382
+qing kuang 	情况	c=1 d=0.995012 t=382
+qing ni 	请你	c=1 d=0.960789 t=382
+qu se 	取色	c=2 d=1.85413 t=382
+rang ta 	让他	c=2 d=1.85883 t=382
+ren wu 	任务	c=2 d=1.9605 t=382
+ri ben 	日本	c=1 d=0.937067 t=382
+ri nei 	日内	c=0 d=0.0895834 t=382
+ru he 	如何	c=1 d=0.985112 t=382
+san da 	三大	c=1 d=1.07724 t=382
+san da da shi 	三大大师	c=1 d=0.97531 t=382
+se 	色	c=1 d=0.980199 t=382
+shang de 	上的	c=1 d=0.980199 t=382
+shao nv 	少女	c=1 d=1 t=382
+she zhi 	设置	c=9 d=7.26715 t=382
+shen me 	什么	c=2 d=1.96062 t=382
+sheng cheng 	生成	c=1 d=0.99005 t=382
+shi 	是	c=6 d=4.91492 t=382
+shi wo 	是我	c=1 d=0.985112 t=382
+shi xian 	实现	c=1 d=0.99005 t=382
+shi yan xing 	实验性	c=1 d=0.946485 t=382
+shou 	手	c=0 d=0.0895834 t=382
+shou ri nei 	手日内	c=1 d=0.900325 t=382
+shu biao 	鼠标	c=1 d=0.860708 t=382
+shu ru fa 	输入法	c=1 d=0.937067 t=382
+sou suo yin qing 	搜索引擎	c=1 d=1 t=382
+sui ji 	随机	c=1 d=0.97531 t=382
+tai man 	太慢	c=1 d=1 t=382
+tang shan 	唐山	c=1 d=1 t=382
+tian jia 	添加	c=1 d=0.995012 t=382
+tong guo 	通过	c=1 d=0.980199 t=382
+tou ming 	透明	c=1 d=0.970446 t=382
+tou xian 	头衔	c=1 d=0.995012 t=382
+tou xiang 	头像	c=1 d=1 t=382
+tu biao 	图标	c=6 d=5.39996 t=382
+wan quan 	完全	c=1 d=0.99005 t=382
+wang zhan 	网站	c=1 d=0.927743 t=382
+wei 	为	c=8 d=6.83459 t=382
+wei liang 	微凉	c=1 d=0.951229 t=382
+wei shen me 	为什么	c=4 d=3.83003 t=382
+wei xin 	微信	c=1 d=1 t=382
+wei zhi 	位置	c=1 d=0.995012 t=382
+wen jian 	文件	c=1 d=0.878095 t=382
+wen jian jia 	文件夹	c=1 d=0.946485 t=382
+wen ti 	问题	c=1 d=0.97531 t=382
+wo 	我	c=5 d=4.08649 t=382
+wo de 	我的	c=2 d=1.9316 t=382
+wo xiang 	我想	c=1 d=0.923116 t=382
+wu fa 	无法	c=2 d=1.93605 t=382
+wu shen 	武神	c=1 d=1 t=382
+xia 	下	c=0 d=0.0955997 t=382
+xia ping di tu 	下平地图	c=1 d=0.960789 t=382
+xia zai 	下载	c=1 d=0.99005 t=382
+xian shi 	显示	c=2 d=1.7432 t=382
+xian zai 	现在	c=8 d=6.47363 t=382
+xiang gang 	香港	c=1 d=0.932394 t=382
+xiao guo 	效果	c=1 d=1 t=382
+xin jia po 	新加坡	c=1 d=0.941765 t=382
+xing fu 	幸福	c=1 d=1 t=382
+xiu gai 	修改	c=3 d=2.80821 t=382
+xiu gai cheng 	修改成	c=1 d=0.965605 t=382
+xu yao 	需要	c=1 d=0.99005 t=382
+yan se 	颜色	c=1 d=1 t=382
+yi chu 	移除	c=4 d=3.58183 t=382
+yi si 	意思	c=1 d=1 t=382
+yi tiao 	一条	c=1 d=0.985112 t=382
+yi xia 	一下	c=1 d=0.960789 t=382
+ying yong 	应用	c=3 d=2.65492 t=382
+yong 	用	c=1 d=0.909373 t=382
+yong de 	用的	c=1 d=0.909373 t=382
+you 	有	c=1 d=0.99005 t=382
+you de 	有的	c=1 d=0.995012 t=382
+you wen ti ma 	有问题吗	c=1 d=0.852144 t=382
+yun xu 	允许	c=1 d=0.965605 t=382
+zai 	在	c=1 d=0.951229 t=382
+zang song 	葬送	c=1 d=1.08955 t=382
+zang song de fu li lian 	葬送的福利连	c=1 d=1 t=382
+zen me 	怎么	c=2 d=1.89786 t=382
+zen yang 	怎样	c=4 d=3.81663 t=382
+zen yang ce shi 	怎样测试	c=1 d=1 t=382
+zhan yong 	占用	c=1 d=0.99005 t=382
+zhao dao 	找到	c=1 d=0.97531 t=382
+zhe 	哲	c=0 d=0.099005 t=382
+zhe 	这	c=1 d=0.970446 t=382
+zhe feng bi zhi 	哲风壁纸	c=1 d=0.995012 t=382
+zhe ge 	这个	c=14 d=9.86805 t=382
+zhe shi 	这是	c=3 d=2.83472 t=382
+zhe yang 	这样	c=1 d=1 t=382
+zhi chi 	支持	c=5 d=4.14049 t=382
+zhi xing 	执行	c=2 d=1.97045 t=382
+zhong duan 	终端	c=1 d=1 t=382
+zhu jue 	主角	c=1 d=1 t=382
+zhu ti 	主题	c=2 d=1.98012 t=382
+zhuan huan 	转换	c=1 d=0.965605 t=382
+zi dong 	自动	c=3 d=2.77605 t=382
+zi dong chong qi 	自动重启	c=1 d=1 t=382
+zi dong qu se 	自动取色	c=2 d=1.88692 t=382
+zi ti 	字体	c=1 d=0.99005 t=382
+zong jie 	总结	c=1 d=0.932394 t=382

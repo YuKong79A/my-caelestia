@@ -1,0 +1,5 @@
+{
+  "theme": {
+    "postHook": "bash ~/.config/caelestia/scripts/sync-fcitx5-theme.sh && bash ~/.config/caelestia/scripts/sync-papirus-icons.sh"
+  }
+}

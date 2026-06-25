@@ -1,0 +1,119 @@
+{
+    "ai": {
+        "enableOllama": true
+    },
+    "appearance": {
+        "islands": false,
+        "transparency": {
+            "enabled": false
+        }
+    },
+    "background": {
+        "desktopLyrics": {
+            "enabled": true
+        },
+        "videoWallpaperMuteOnMedia": true,
+        "videoWallpaperPauseOnFullscreen": true,
+        "videoWallpaperPaused": false,
+        "videoWallpaperSoundEnabled": true,
+        "visualiser": {
+            "enabled": true
+        },
+        "wallpaperEnabled": true,
+        "wallpaperRecolor": false
+    },
+    "bar": {
+        "activeWindow": {
+            "compact": false,
+            "inverted": false,
+            "showOnHover": true
+        },
+        "clock": {
+            "background": false,
+            "showDate": true
+        },
+        "dragThreshold": 20,
+        "entries": [
+            {
+                "enabled": true,
+                "id": "logo"
+            },
+            {
+                "enabled": true,
+                "id": "workspaces"
+            },
+            {
+                "enabled": true,
+                "id": "spacer"
+            },
+            {
+                "enabled": true,
+                "id": "activeWindow"
+            },
+            {
+                "enabled": true,
+                "id": "spacer"
+            },
+            {
+                "enabled": true,
+                "id": "tray"
+            },
+            {
+                "enabled": true,
+                "id": "clock"
+            },
+            {
+                "enabled": true,
+                "id": "statusIcons"
+            },
+            {
+                "enabled": true,
+                "id": "power"
+            }
+        ],
+        "position": "left",
+        "showOnHover": true,
+        "status": {
+            "showAudio": false
+        },
+        "tray": {
+            "background": false,
+            "compact": true,
+            "recolour": true
+        },
+        "workspaces": {
+            "activeIndicator": true,
+            "activeTrail": true,
+            "occupiedBg": false,
+            "perMonitorWorkspaces": true,
+            "showWindows": true,
+            "useIcon": false
+        }
+    },
+    "dashboard": {
+        "colorizeMediaGif": true,
+        "profilePicShape": 0,
+        "showHyprlandSplash": true,
+        "syncMediaShapesToBeat": false,
+        "useMediaShapes": false
+    },
+    "launcher": {
+        "enableDangerousActions": true,
+        "showOnHover": false
+    },
+    "lock": {
+        "profilePicShape": 12
+    },
+    "services": {
+        "useTwelveHourClock": true
+    },
+    "shimeji": {
+        "enabled": false
+    },
+    "utilities": {
+        "gameMode": {
+            "autoEnableRegexes": [
+            ]
+        }
+    }
+}
